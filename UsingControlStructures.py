@@ -47,15 +47,15 @@ while i >0:
 for number in range (6,30):
     if (number % 2 == 1) and(number % 3!=0) and (number % 5 != 0):
         print number
- """       
+"""
         
 #Ex 9
 """
-n=1
+n=0
 while n<97:
     if (79*n)%97==1:
         print " ",n
-       break
+        break
     n=n+1
 """
 
