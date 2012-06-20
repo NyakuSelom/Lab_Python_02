@@ -1,3 +1,3 @@
 1. there seems to be something wrong with question 4 in lab 2(does not display any answer) 
 
-2. when is it prefarable to use the shell and when is it also prefarable to use the .py window
+2. when is it prefarable to use the idle shell and when is it also prefarable to use the .py window
