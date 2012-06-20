@@ -1,0 +1,15 @@
+question 1
+a. x is 2
+b. z is 
+c. x is 1
+d. z is 7
+
+question 2 
+a. y=1
+b. y=1
+
+question 3
+loop runs 5 times
+
+question 4 
+nothing
